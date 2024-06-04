@@ -1,0 +1,1 @@
+ /Users/iplexsoft/Downloads/tamplete/.dart_tool/flutter_build/f264d202fa67b21c68ba962e3e94f035/native_assets.yaml: 
